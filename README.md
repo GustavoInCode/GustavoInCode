@@ -1,4 +1,4 @@
-# [Bem vindo ao meu perfil - GustavoInCode]
+# Bem vindo ao meu perfil - GustavoInCode
 
 <img align="right" src="https://static.dribbble.com/users/1358460/screenshots/11896098/media/371c060cbef7357ff4e2f54a0408b064.jpg" width="400"/>
 
