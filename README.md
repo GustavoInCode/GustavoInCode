@@ -5,17 +5,20 @@
 
 
 
-Olá, Meu nome é Gustavo Henrique sou estudante atualmente estou cursando 
-Analise e desenvolvimento de sistemas (Ads) no qual quero me tornar um desenvoldedor Frontend
-e futuramente um desenvolvodedor FullStack para web.
+<p align="left">
+  Olá, Meu nome é Gustavo Henrique sou estudante atualmente estou cursando 
+  Analise e desenvolvimento de sistemas (Ads) no qual quero me tornar um desenvoldedor Frontend
+  e futuramente um desenvolvodedor FullStack para web.
+</p>
 
-ainda sem projetos para apresentar mas em breve pretendo mostrar a minha evolução com os estudos em 
+ainda sem projetos para apresentar mas em breve pretendo mostrar a minha evolução com os estudos em 🚀
+<strong>
+  * HTML
+  * CSS
+  * Javascript
+  * React / React Native
+ </strong>
 
-* HTML
-* CSS
-* Javascript
-* React / React Native
 
-## Em Breve mais conteúdo
 
 
