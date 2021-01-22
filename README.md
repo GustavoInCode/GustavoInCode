@@ -6,9 +6,13 @@
 
 
 <p align="left">
-  Olá, Meu nome é Gustavo Henrique sou estudante atualmente estou cursando 
-  Analise e desenvolvimento de sistemas (Ads) no qual quero me tornar um desenvoldedor Frontend
-  e futuramente um desenvolvodedor FullStack para web.
+  
+  Olá meu nome é....G...Gustavo, prazer em te ter aqui no meu perfil.
+  
+  Sou um jovem sonhador em uma jornada para me tornar um desenvolvedor FullStack para web, que a força esteja com conosco 😅, 
+  atualmente estou cursando Analise e desenvolvimento de sistemas (Ads).
+  
+  Obrigado por dedicar um pouco do seu tempo em meu humilde repositorio, se tiver sugestões, desafios, treinos e afins, me envie um email (contato.gustavohenrique@hotmail.com)
 </p>
 
 ainda sem projetos para apresentar mas em breve pretendo mostrar a minha evolução com os estudos em 🚀
